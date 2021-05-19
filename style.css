@@ -1,0 +1,26 @@
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+
+  img {
+    width:540px; /* you can use % */
+    height: 240px;
+}
+
+#center {
+    text-align: center;
+}
