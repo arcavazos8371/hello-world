@@ -27,3 +27,9 @@ p, ul {
     text-align: center;
 }
 
+.line {
+  list-style-type:  none;
+}
+.line li {
+  display: inline-block;
+}
